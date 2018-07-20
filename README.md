@@ -1,7 +1,7 @@
 # Toxic Comment Classification
 
-This repository holds the files related to an ongoing research project. Currently, experimenting with deep learning methods.  
-The original problem and the data can be found at https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge.
+This repository holds the files related to an ongoing research project. Currently, I am experimenting with deep learning on the toxic comment classification data set. <br/>
+The data set can be found at https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge.
 
 
 ## GloVe: Global Vector Representation 
@@ -18,41 +18,37 @@ I tested the following machine learning and deep learning algorithms on the data
 5. LSTM + CNNs (Best performance)
 6. GRU + CNNs 
 
-## Dependencies
+# Dependencies
 You should have Python 3 (preferably 3.6) installed.
 
-### 1. Numpy - https://www.numpy.org/ <br/>
+### 1. Numpy
+https://www.numpy.org/ <br/>
 ```bash
 pip3 install numpy
 ```
-<br/>
-
-### 2. Pandas - https://pandas.pydata.org <br/>
+### 2. Pandas
+https://pandas.pydata.org <br/>
 ```bash
 pip3 install pandas
 ```
-<br/>
-
-### 3. Tensorflow - https://tensorflow.org <br/>
+### 3. Tensorflow
+https://tensorflow.org <br/>
 ```bash
 pip3 install tensorflow-gpu
 ```
-<br/>
-
-### 4. Keras - https://keras.io <br/>
+### 4. Keras
+https://keras.io <br/>
 ```bash
 pip3 install keras
 ```
-<br/>
-
-
-### 5. Jupyter Notebook - https://jupyter.org (Optional: If you want to run the ipython notebooks) <br/>
+### 5. Jupyter Notebook
+https://jupyter.org (Optional: If you want to run the ipython notebooks) <br/>
 ```bash
 pip3 install jupyter
 ```
 <br/>
 
-## Running the scripts
+# Running the scripts
 
 After installing dependencies to run the scripts. If the data and the glove files are in the same folder as train.py
 simply use:
