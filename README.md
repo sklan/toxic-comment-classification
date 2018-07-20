@@ -56,14 +56,12 @@ pip3 install jupyter
 
 After installing dependencies to run the scripts. If the data and the glove files are in the same folder as train.py
 simply use:
+
 ```bash
 python3 train.py
 ```
 
-### Full commands
-<br/>
-
-### usage:
+### Usage:
 
 ```bash
 python3 train.py [-h] [--train-path TRAIN_PATH] [--test-path TEST_PATH]
