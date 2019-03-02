@@ -1,6 +1,6 @@
 # Toxic Comment Classification
 
-This repository holds the files related to an ongoing research project. Currently, I am experimenting with deep learning on the toxic comment classification data set. <br/>
+This repository holds the files related to a research project. I experimented with deep learning on the toxic comment classification data set. <br/>
 The data set can be found at https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge.
 
 
